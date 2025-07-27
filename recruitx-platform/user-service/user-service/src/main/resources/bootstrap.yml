@@ -11,5 +11,5 @@ spring:
       multiplier: 1.5
       max-interval: 10000
 
-config:
-  import: "configserver:"
+  config.import: "configserver:"
+
